@@ -1,7 +1,9 @@
 *.hprof
 *.iml
+*.tar
 *.xccheckout
 *.xcscmblueprint
+*source/
 .DS_Store
 .classpath
 .gradle/
